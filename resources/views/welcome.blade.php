@@ -32,29 +32,6 @@
     </div>
     @endif
   </div>
-
-  <nav class="navbar navbar-expand-md navbar-light bg-warning text-white">
-    <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#MenuNavegacion">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div id="MenuNavegacion" class="collapse navbar-collapse">
-      <a class="navbar-brand" href="#">
-        navegacion1
-      </a>
-      <a class="navbar-brand ms-3" href="#">
-        navegacion2
-      </a>
-      <a class="navbar-brand ms-3" href="#">
-        navegacion3
-      </a>
-      <a class="navbar-brand ms-3" href="#">
-        navegacion4
-      </a>
-      <a class="navbar-brand ms-3" href="#">
-        navegacion5
-      </a>
-    </div>
-  </nav>
   @endsection
 </body>
 
